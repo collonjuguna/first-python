@@ -1,0 +1,5 @@
+# Area of a triangle(1/2*b*h)
+base = float(input("base value:"))
+height = float(input("height value:"))
+area = (1/2*base*height)
+print("the area is",area)
